@@ -1,0 +1,23 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soorajthekkepatt/Node-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soorajthekkepatt/Node-basics/issues"
+  },
+  "homepage": "https://github.com/soorajthekkepatt/Node-basics#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
